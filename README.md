@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuniee</h1>
-<h3 align="center">A passionate tester and backend developer from Viet Nam</h3>
+<h3 align="center">A passionate tester from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duongtuyetnhi&label=Profile%20views&color=0e75b6&style=flat-square" alt="duongtuyetnhi" /> </p>
 
